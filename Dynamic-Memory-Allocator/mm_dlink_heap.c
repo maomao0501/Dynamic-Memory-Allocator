@@ -4,8 +4,6 @@
  * 	Implement doubly linked structure of heap memory
  * 	Based on the description on assignment3 and notes on piazza
  *
- *  @since March 13, 2019
- *  @author Jing Wang
  */
 #include <stdio.h>
 #include <unistd.h>
